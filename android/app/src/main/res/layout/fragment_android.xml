@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:padding="16dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="ANDROID FRAGMENT"
+        android:textSize="20dp"
+        android:textColor="@android:color/holo_blue_dark" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="Message From Flutter:"
+        android:textColor="@android:color/holo_blue_dark" />
+
+    <TextView
+        android:id="@+id/tvMessageFromFlutter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:textColor="@android:color/holo_blue_dark"
+        tools:text="Android" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:gravity="center_horizontal"
+        android:text="Message to Flutter:"
+        android:textColor="@android:color/holo_blue_dark" />
+
+    <EditText
+        android:id="@+id/etMessageToFlutter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Message..." />
+
+    <Button
+        android:id="@+id/btSendFlutterMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:background="@android:color/holo_blue_dark"
+        android:text="Send to Flutter" />
+</LinearLayout>

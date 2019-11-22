@@ -1,4 +1,4 @@
-# DevFest Flutter Integration
+# Devfest Flutter Integration
 by [Joshua M. de Guzman](https://joshdeguzman.com)
 
 A demonstrable flutter integration into an existing codebase, with the help of platform channels.
@@ -87,9 +87,10 @@ $ flutter run test/<TEST_FILE.dart>
 #### 4. Technical Specs
 
 Available channels
-| Name               | Type            |
-| ------------------ | --------------- |
-| `channel-username` | `MethodChannel` |
+| Name                        | Type                          |
+| --------------------------- | ----------------------------- |
+| `channel-username`          | `MethodChannel`               |
+| `channel-embedded-messages` | `BasicMessageChannel<String>` |
 
 Available routes
 | Name                     | Widget              | Notes                                                                                                                                       |
