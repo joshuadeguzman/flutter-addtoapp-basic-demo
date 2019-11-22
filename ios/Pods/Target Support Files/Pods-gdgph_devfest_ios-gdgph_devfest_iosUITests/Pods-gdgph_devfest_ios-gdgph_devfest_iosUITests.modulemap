@@ -1,0 +1,6 @@
+framework module Pods_gdgph_devfest_ios_gdgph_devfest_iosUITests {
+  umbrella header "Pods-gdgph_devfest_ios-gdgph_devfest_iosUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
