@@ -87,16 +87,16 @@ $ flutter run test/<TEST_FILE.dart>
 #### 4. Technical Specs
 
 Available channels
-| Name                        | Type                          |
-| --------------------------- | ----------------------------- |
+|Name|Type|
+|---|---|
 | `channel-username`          | `MethodChannel`               |
 | `channel-embedded-messages` | `BasicMessageChannel<String>` |
 
 Available routes
-| Name                     | Widget              | Notes                                                                                                                                       |
-| ------------------------ | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+
+|Name|Widget|Description|                                                                                                                                 |---|---|---|
 | `/flutter-screen`        | FlutterScreen       | Shows a full screen Flutter view. Can be either presented as an `Activity` or full screen `ViewController` in Android and iOS respectively. |
-| `/flutter-embedded-view` | FlutterEmbeddedView | Shows a particular section of the app in Flutter.                                                                                           |
+| `/flutter-embedded-view` | FlutterEmbeddedView | Shows a particular section of the app in Flutter.|
 
 ### Slides
 
