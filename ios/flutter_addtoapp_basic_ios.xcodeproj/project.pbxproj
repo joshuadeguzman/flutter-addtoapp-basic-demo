@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1A921CAE9F67DB5F3F548118 /* Pods_gdgph_devfest_ios.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BB363510034716E090ED05EB /* Pods_gdgph_devfest_ios.framework */; };
+		5968B65926C71AA392EC38B1 /* Pods_flutter_addtoapp_basic_ios_gdgph_devfest_iosUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B364FD208BFE8B6A064FB8F6 /* Pods_flutter_addtoapp_basic_ios_gdgph_devfest_iosUITests.framework */; };
 		5EFB1D7C2387DCD70041DD80 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFB1D7B2387DCD70041DD80 /* AppDelegate.swift */; };
 		5EFB1D7E2387DCD70041DD80 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFB1D7D2387DCD70041DD80 /* ViewController.swift */; };
 		5EFB1D812387DCD70041DD80 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5EFB1D7F2387DCD70041DD80 /* Main.storyboard */; };
@@ -15,7 +15,7 @@
 		5EFB1D862387DCD90041DD80 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5EFB1D842387DCD90041DD80 /* LaunchScreen.storyboard */; };
 		5EFB1D912387DCD90041DD80 /* gdgph_devfest_iosTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFB1D902387DCD90041DD80 /* gdgph_devfest_iosTests.swift */; };
 		5EFB1D9C2387DCD90041DD80 /* gdgph_devfest_iosUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFB1D9B2387DCD90041DD80 /* gdgph_devfest_iosUITests.swift */; };
-		716C00F20B48E68C50D84763 /* Pods_gdgph_devfest_ios_gdgph_devfest_iosUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C31856B85AFFAFB3BAE64BA0 /* Pods_gdgph_devfest_ios_gdgph_devfest_iosUITests.framework */; };
+		7D902750A4C2E743A7268198 /* Pods_flutter_addtoapp_basic_ios.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8510B78E23F51CC401D3EC5B /* Pods_flutter_addtoapp_basic_ios.framework */; };
 		E7AD1366691CD6118DB73EB4 /* Pods_gdgph_devfest_iosTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7FAD01AF1FF4EF20E40F19A9 /* Pods_gdgph_devfest_iosTests.framework */; };
 /* End PBXBuildFile section */
 
@@ -58,9 +58,9 @@
 		5EFB1DAA2387F80D0041DD80 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		5FC24D82C76B280F9D8D296D /* Pods-flutter_addtoapp_basic_ios-gdgph_devfest_iosUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-flutter_addtoapp_basic_ios-gdgph_devfest_iosUITests.debug.xcconfig"; path = "Target Support Files/Pods-flutter_addtoapp_basic_ios-gdgph_devfest_iosUITests/Pods-flutter_addtoapp_basic_ios-gdgph_devfest_iosUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		7FAD01AF1FF4EF20E40F19A9 /* Pods_gdgph_devfest_iosTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_gdgph_devfest_iosTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		8510B78E23F51CC401D3EC5B /* Pods_flutter_addtoapp_basic_ios.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_flutter_addtoapp_basic_ios.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1C729FBC89BA696FD10FDBC /* Pods-gdgph_devfest_iosTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-gdgph_devfest_iosTests.release.xcconfig"; path = "Target Support Files/Pods-gdgph_devfest_iosTests/Pods-gdgph_devfest_iosTests.release.xcconfig"; sourceTree = "<group>"; };
-		BB363510034716E090ED05EB /* Pods_gdgph_devfest_ios.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_gdgph_devfest_ios.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		C31856B85AFFAFB3BAE64BA0 /* Pods_gdgph_devfest_ios_gdgph_devfest_iosUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_gdgph_devfest_ios_gdgph_devfest_iosUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B364FD208BFE8B6A064FB8F6 /* Pods_flutter_addtoapp_basic_ios_gdgph_devfest_iosUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_flutter_addtoapp_basic_ios_gdgph_devfest_iosUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,7 +68,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1A921CAE9F67DB5F3F548118 /* Pods_gdgph_devfest_ios.framework in Frameworks */,
+				7D902750A4C2E743A7268198 /* Pods_flutter_addtoapp_basic_ios.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -84,7 +84,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				716C00F20B48E68C50D84763 /* Pods_gdgph_devfest_ios_gdgph_devfest_iosUITests.framework in Frameworks */,
+				5968B65926C71AA392EC38B1 /* Pods_flutter_addtoapp_basic_ios_gdgph_devfest_iosUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -162,9 +162,9 @@
 		6A841A94A1AF6BEE5C39CE4F /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				BB363510034716E090ED05EB /* Pods_gdgph_devfest_ios.framework */,
-				C31856B85AFFAFB3BAE64BA0 /* Pods_gdgph_devfest_ios_gdgph_devfest_iosUITests.framework */,
 				7FAD01AF1FF4EF20E40F19A9 /* Pods_gdgph_devfest_iosTests.framework */,
+				8510B78E23F51CC401D3EC5B /* Pods_flutter_addtoapp_basic_ios.framework */,
+				B364FD208BFE8B6A064FB8F6 /* Pods_flutter_addtoapp_basic_ios_gdgph_devfest_iosUITests.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";

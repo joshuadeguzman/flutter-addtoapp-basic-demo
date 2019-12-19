@@ -1,4 +1,4 @@
-framework module Pods_gdgph_devfest_ios_gdgph_devfest_iosUITests {
+framework module Pods_flutter_addtoapp_basic_ios_gdgph_devfest_iosUITests {
   umbrella header "Pods-flutter_addtoapp_basic_ios-gdgph_devfest_iosUITests-umbrella.h"
 
   export *

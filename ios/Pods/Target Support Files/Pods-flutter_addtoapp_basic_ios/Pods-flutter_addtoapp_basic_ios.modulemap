@@ -1,4 +1,4 @@
-framework module Pods_gdgph_devfest_ios {
+framework module Pods_flutter_addtoapp_basic_ios {
   umbrella header "Pods-flutter_addtoapp_basic_ios-umbrella.h"
 
   export *
