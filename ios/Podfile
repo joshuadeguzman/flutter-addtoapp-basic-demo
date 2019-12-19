@@ -11,13 +11,13 @@ target 'flutter_addtoapp_basic_ios' do
 
   # Pods for flutter_addtoapp_basic_ios
 
-  target 'gdgph_devfest_iosTests' do
+  target 'flutter_addtoapp_basic_iosTests' do
     inherit! :search_paths
     # Pods for testing
     install_all_flutter_pods(flutter_application_path)
   end
 
-  target 'gdgph_devfest_iosUITests' do
+  target 'flutter_addtoapp_basic_iosUITests' do
     # Pods for testing
     install_all_flutter_pods(flutter_application_path)
   end

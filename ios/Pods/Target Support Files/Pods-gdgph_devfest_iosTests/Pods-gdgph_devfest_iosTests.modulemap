@@ -1,5 +1,5 @@
-framework module Pods_gdgph_devfest_iosTests {
-  umbrella header "Pods-gdgph_devfest_iosTests-umbrella.h"
+framework module Pods_flutter_addtoapp_basic_iosTests {
+  umbrella header "Pods-flutter_addtoapp_basic_iosTests-umbrella.h"
 
   export *
   module * { export * }

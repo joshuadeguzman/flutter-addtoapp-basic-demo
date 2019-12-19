@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_flutter_addtoapp_basic_ios_gdgph_devfest_iosUITestsVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_flutter_addtoapp_basic_ios_gdgph_devfest_iosUITestsVersionString[];
+FOUNDATION_EXPORT double Pods_flutter_addtoapp_basic_ios_flutter_addtoapp_basic_iosUITestsVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_flutter_addtoapp_basic_ios_flutter_addtoapp_basic_iosUITestsVersionString[];
 
