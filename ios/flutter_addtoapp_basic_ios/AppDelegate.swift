@@ -17,7 +17,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
     var flutterEngine : FlutterEngine?;
-    var engineName = "gdgph_ios_engine"
+    var engineName = "flutter_addtoapp_basic"
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
