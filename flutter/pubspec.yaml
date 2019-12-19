@@ -1,4 +1,4 @@
-name: gdgph_devfest_flutter
+name: flutter_addtoapp_basic
 description: A new flutter module project.
 
 # The following defines the version and build number for your application.
@@ -81,5 +81,5 @@ flutter:
   # identifiers, which may be completely independent or the same as these.
   module:
     androidX: true
-    androidPackage: io.github.joshuadeguzman.gdgph_devfest_flutter
-    iosBundleIdentifier: io.github.joshuadeguzman.gdgphDevfestFlutter2
+    androidPackage: io.github.joshuadeguzman.flutter_addtoapp_basic
+    iosBundleIdentifier: io.github.joshuadeguzman.flutterAddToAppBasic

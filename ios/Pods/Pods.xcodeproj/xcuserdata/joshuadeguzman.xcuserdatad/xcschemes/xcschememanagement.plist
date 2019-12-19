@@ -18,14 +18,14 @@
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
-		<key>Pods-gdgph_devfest_ios-gdgph_devfest_iosUITests.xcscheme</key>
+		<key>Pods-flutter_addtoapp_basic_ios-gdgph_devfest_iosUITests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
 			<integer>4</integer>
 		</dict>
-		<key>Pods-gdgph_devfest_ios.xcscheme</key>
+		<key>Pods-flutter_addtoapp_basic_ios.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -39,7 +39,7 @@
 			<key>orderHint</key>
 			<integer>5</integer>
 		</dict>
-		<key>gdgph_devfest_flutter.xcscheme</key>
+		<key>flutter_addtoapp_basic.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>

@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  gdgph_devfest_ios
+//  flutter_addtoapp_basic_ios
 //
 //  Created by Joshua de Guzman on 22/11/2019.
 //  Copyright © 2019 Joshua de Guzman. All rights reserved.

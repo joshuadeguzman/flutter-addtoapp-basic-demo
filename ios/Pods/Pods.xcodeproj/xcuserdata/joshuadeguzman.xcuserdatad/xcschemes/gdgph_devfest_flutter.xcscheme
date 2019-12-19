@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "995F2B8165631567F29D4B4B545A43F8"
-               BuildableName = "gdgph_devfest_flutter"
-               BlueprintName = "gdgph_devfest_flutter"
+               BuildableName = "flutter_addtoapp_basic"
+               BlueprintName = "flutter_addtoapp_basic"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>

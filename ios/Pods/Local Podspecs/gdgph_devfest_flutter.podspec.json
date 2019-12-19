@@ -1,8 +1,8 @@
 {
-  "name": "gdgph_devfest_flutter",
+  "name": "flutter_addtoapp_basic",
   "version": "0.0.1",
   "summary": "Flutter module",
-  "description": "Flutter module - gdgph_devfest_flutter",
+  "description": "Flutter module - flutter_addtoapp_basic",
   "homepage": "https://flutter.dev",
   "license": {
     "type": "BSD"

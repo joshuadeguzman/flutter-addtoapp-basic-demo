@@ -50,7 +50,7 @@ $ cd flutter
 $ flutter build ios
 $ cd .. && cd ios
 $ pod install
-$ open gdgph_devfest_ios.xcworkspace
+$ open flutter_addtoapp_basic_ios.xcworkspace
 ```
 
 #### 2. Run

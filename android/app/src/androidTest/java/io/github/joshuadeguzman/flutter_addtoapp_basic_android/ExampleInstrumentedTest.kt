@@ -1,4 +1,4 @@
-package io.github.joshuadeguzman.gdgph_devfest_android
+package io.github.joshuadeguzman.flutter_addtoapp_basic_android
 
 import androidx.test.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("io.github.joshuadeguzman.gdgph_devfest_android", appContext.packageName)
+        assertEquals("io.github.joshuadeguzman.flutter_addtoapp_basic_android", appContext.packageName)
     }
 }

@@ -16,7 +16,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F877040F294FB2845ACD25DAA3AE6C5C"
                BuildableName = "Pods_gdgph_devfest_ios.framework"
-               BlueprintName = "Pods-gdgph_devfest_ios"
+               BlueprintName = "Pods-flutter_addtoapp_basic_ios"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -47,7 +47,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F877040F294FB2845ACD25DAA3AE6C5C"
             BuildableName = "Pods_gdgph_devfest_ios.framework"
-            BlueprintName = "Pods-gdgph_devfest_ios"
+            BlueprintName = "Pods-flutter_addtoapp_basic_ios"
             ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

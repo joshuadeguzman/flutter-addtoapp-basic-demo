@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import gdgph_devfest_ios
+@testable import flutter_addtoapp_basic_ios
 
 class gdgph_devfest_iosTests: XCTestCase {
 

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="io.github.joshuadeguzman.gdgph_devfest_android">
+    package="io.github.joshuadeguzman.flutter_addtoapp_basic_android">
 
     <application
         android:name=".App"

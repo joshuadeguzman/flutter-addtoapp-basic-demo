@@ -3,8 +3,8 @@
 // license that can be found in the LICENSE file.
 
 import 'package:flutter/material.dart';
-import 'package:gdgph_devfest_flutter/flutter_embedded_view.dart';
-import 'package:gdgph_devfest_flutter/flutter_screen.dart';
+import 'package:flutter_addtoapp_basic/flutter_embedded_view.dart';
+import 'package:flutter_addtoapp_basic/flutter_screen.dart';
 
 void main() => runApp(MyApp());
 

@@ -1,4 +1,4 @@
-package io.github.joshuadeguzman.gdgph_devfest_android
+package io.github.joshuadeguzman.flutter_addtoapp_basic_android
 
 import org.junit.Test
 

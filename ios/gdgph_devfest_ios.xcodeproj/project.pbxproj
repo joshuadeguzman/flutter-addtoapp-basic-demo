@@ -25,23 +25,23 @@
 			containerPortal = 5EFB1D702387DCD70041DD80 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 5EFB1D772387DCD70041DD80;
-			remoteInfo = gdgph_devfest_ios;
+			remoteInfo = flutter_addtoapp_basic_ios;
 		};
 		5EFB1D982387DCD90041DD80 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 5EFB1D702387DCD70041DD80 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 5EFB1D772387DCD70041DD80;
-			remoteInfo = gdgph_devfest_ios;
+			remoteInfo = flutter_addtoapp_basic_ios;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1FA5C2BA26B26F966536BA20 /* Pods-gdgph_devfest_ios.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-gdgph_devfest_ios.debug.xcconfig"; path = "Target Support Files/Pods-gdgph_devfest_ios/Pods-gdgph_devfest_ios.debug.xcconfig"; sourceTree = "<group>"; };
-		284F036C8CB1E327A7602CC5 /* Pods-gdgph_devfest_ios.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-gdgph_devfest_ios.release.xcconfig"; path = "Target Support Files/Pods-gdgph_devfest_ios/Pods-gdgph_devfest_ios.release.xcconfig"; sourceTree = "<group>"; };
-		466F2B282D10C95E36DF963D /* Pods-gdgph_devfest_ios-gdgph_devfest_iosUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-gdgph_devfest_ios-gdgph_devfest_iosUITests.release.xcconfig"; path = "Target Support Files/Pods-gdgph_devfest_ios-gdgph_devfest_iosUITests/Pods-gdgph_devfest_ios-gdgph_devfest_iosUITests.release.xcconfig"; sourceTree = "<group>"; };
+		1FA5C2BA26B26F966536BA20 /* Pods-flutter_addtoapp_basic_ios.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-flutter_addtoapp_basic_ios.debug.xcconfig"; path = "Target Support Files/Pods-flutter_addtoapp_basic_ios/Pods-flutter_addtoapp_basic_ios.debug.xcconfig"; sourceTree = "<group>"; };
+		284F036C8CB1E327A7602CC5 /* Pods-flutter_addtoapp_basic_ios.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-flutter_addtoapp_basic_ios.release.xcconfig"; path = "Target Support Files/Pods-flutter_addtoapp_basic_ios/Pods-flutter_addtoapp_basic_ios.release.xcconfig"; sourceTree = "<group>"; };
+		466F2B282D10C95E36DF963D /* Pods-flutter_addtoapp_basic_ios-gdgph_devfest_iosUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-flutter_addtoapp_basic_ios-gdgph_devfest_iosUITests.release.xcconfig"; path = "Target Support Files/Pods-flutter_addtoapp_basic_ios-gdgph_devfest_iosUITests/Pods-flutter_addtoapp_basic_ios-gdgph_devfest_iosUITests.release.xcconfig"; sourceTree = "<group>"; };
 		4C8F215DE2AC18C2F53194EA /* Pods-gdgph_devfest_iosTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-gdgph_devfest_iosTests.debug.xcconfig"; path = "Target Support Files/Pods-gdgph_devfest_iosTests/Pods-gdgph_devfest_iosTests.debug.xcconfig"; sourceTree = "<group>"; };
-		5EFB1D782387DCD70041DD80 /* gdgph_devfest_ios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gdgph_devfest_ios.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5EFB1D782387DCD70041DD80 /* flutter_addtoapp_basic_ios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = flutter_addtoapp_basic_ios.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5EFB1D7B2387DCD70041DD80 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5EFB1D7D2387DCD70041DD80 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		5EFB1D802387DCD70041DD80 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -56,7 +56,7 @@
 		5EFB1D9D2387DCD90041DD80 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5EFB1DA92387F7B60041DD80 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		5EFB1DAA2387F80D0041DD80 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		5FC24D82C76B280F9D8D296D /* Pods-gdgph_devfest_ios-gdgph_devfest_iosUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-gdgph_devfest_ios-gdgph_devfest_iosUITests.debug.xcconfig"; path = "Target Support Files/Pods-gdgph_devfest_ios-gdgph_devfest_iosUITests/Pods-gdgph_devfest_ios-gdgph_devfest_iosUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		5FC24D82C76B280F9D8D296D /* Pods-flutter_addtoapp_basic_ios-gdgph_devfest_iosUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-flutter_addtoapp_basic_ios-gdgph_devfest_iosUITests.debug.xcconfig"; path = "Target Support Files/Pods-flutter_addtoapp_basic_ios-gdgph_devfest_iosUITests/Pods-flutter_addtoapp_basic_ios-gdgph_devfest_iosUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		7FAD01AF1FF4EF20E40F19A9 /* Pods_gdgph_devfest_iosTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_gdgph_devfest_iosTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1C729FBC89BA696FD10FDBC /* Pods-gdgph_devfest_iosTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-gdgph_devfest_iosTests.release.xcconfig"; path = "Target Support Files/Pods-gdgph_devfest_iosTests/Pods-gdgph_devfest_iosTests.release.xcconfig"; sourceTree = "<group>"; };
 		BB363510034716E090ED05EB /* Pods_gdgph_devfest_ios.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_gdgph_devfest_ios.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -94,10 +94,10 @@
 		54A915BF8A54ACB8FDC99047 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				1FA5C2BA26B26F966536BA20 /* Pods-gdgph_devfest_ios.debug.xcconfig */,
-				284F036C8CB1E327A7602CC5 /* Pods-gdgph_devfest_ios.release.xcconfig */,
-				5FC24D82C76B280F9D8D296D /* Pods-gdgph_devfest_ios-gdgph_devfest_iosUITests.debug.xcconfig */,
-				466F2B282D10C95E36DF963D /* Pods-gdgph_devfest_ios-gdgph_devfest_iosUITests.release.xcconfig */,
+				1FA5C2BA26B26F966536BA20 /* Pods-flutter_addtoapp_basic_ios.debug.xcconfig */,
+				284F036C8CB1E327A7602CC5 /* Pods-flutter_addtoapp_basic_ios.release.xcconfig */,
+				5FC24D82C76B280F9D8D296D /* Pods-flutter_addtoapp_basic_ios-gdgph_devfest_iosUITests.debug.xcconfig */,
+				466F2B282D10C95E36DF963D /* Pods-flutter_addtoapp_basic_ios-gdgph_devfest_iosUITests.release.xcconfig */,
 				4C8F215DE2AC18C2F53194EA /* Pods-gdgph_devfest_iosTests.debug.xcconfig */,
 				A1C729FBC89BA696FD10FDBC /* Pods-gdgph_devfest_iosTests.release.xcconfig */,
 			);
@@ -107,7 +107,7 @@
 		5EFB1D6F2387DCD70041DD80 = {
 			isa = PBXGroup;
 			children = (
-				5EFB1D7A2387DCD70041DD80 /* gdgph_devfest_ios */,
+				5EFB1D7A2387DCD70041DD80 /* flutter_addtoapp_basic_ios */,
 				5EFB1D8F2387DCD90041DD80 /* gdgph_devfest_iosTests */,
 				5EFB1D9A2387DCD90041DD80 /* gdgph_devfest_iosUITests */,
 				5EFB1D792387DCD70041DD80 /* Products */,
@@ -119,14 +119,14 @@
 		5EFB1D792387DCD70041DD80 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5EFB1D782387DCD70041DD80 /* gdgph_devfest_ios.app */,
+				5EFB1D782387DCD70041DD80 /* flutter_addtoapp_basic_ios.app */,
 				5EFB1D8C2387DCD90041DD80 /* gdgph_devfest_iosTests.xctest */,
 				5EFB1D972387DCD90041DD80 /* gdgph_devfest_iosUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		5EFB1D7A2387DCD70041DD80 /* gdgph_devfest_ios */ = {
+		5EFB1D7A2387DCD70041DD80 /* flutter_addtoapp_basic_ios */ = {
 			isa = PBXGroup;
 			children = (
 				5EFB1D7B2387DCD70041DD80 /* AppDelegate.swift */,
@@ -138,7 +138,7 @@
 				5EFB1DA92387F7B60041DD80 /* AppDelegate.h */,
 				5EFB1DAA2387F80D0041DD80 /* AppDelegate.m */,
 			);
-			path = gdgph_devfest_ios;
+			path = flutter_addtoapp_basic_ios;
 			sourceTree = "<group>";
 		};
 		5EFB1D8F2387DCD90041DD80 /* gdgph_devfest_iosTests */ = {
@@ -172,9 +172,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5EFB1D772387DCD70041DD80 /* gdgph_devfest_ios */ = {
+		5EFB1D772387DCD70041DD80 /* flutter_addtoapp_basic_ios */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5EFB1DA02387DCD90041DD80 /* Build configuration list for PBXNativeTarget "gdgph_devfest_ios" */;
+			buildConfigurationList = 5EFB1DA02387DCD90041DD80 /* Build configuration list for PBXNativeTarget "flutter_addtoapp_basic_ios" */;
 			buildPhases = (
 				BFBFCFD9EBA8AC71FABFB7AB /* [CP] Check Pods Manifest.lock */,
 				BFB8CF9CCA501917B3B01FA1 /* [CP-User] Run Flutter Build Script */,
@@ -187,9 +187,9 @@
 			);
 			dependencies = (
 			);
-			name = gdgph_devfest_ios;
-			productName = gdgph_devfest_ios;
-			productReference = 5EFB1D782387DCD70041DD80 /* gdgph_devfest_ios.app */;
+			name = flutter_addtoapp_basic_ios;
+			productName = flutter_addtoapp_basic_ios;
+			productReference = 5EFB1D782387DCD70041DD80 /* flutter_addtoapp_basic_ios.app */;
 			productType = "com.apple.product-type.application";
 		};
 		5EFB1D8B2387DCD90041DD80 /* gdgph_devfest_iosTests */ = {
@@ -257,7 +257,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 5EFB1D732387DCD70041DD80 /* Build configuration list for PBXProject "gdgph_devfest_ios" */;
+			buildConfigurationList = 5EFB1D732387DCD70041DD80 /* Build configuration list for PBXProject "flutter_addtoapp_basic_ios" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -270,7 +270,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5EFB1D772387DCD70041DD80 /* gdgph_devfest_ios */,
+				5EFB1D772387DCD70041DD80 /* flutter_addtoapp_basic_ios */,
 				5EFB1D8B2387DCD90041DD80 /* gdgph_devfest_iosTests */,
 				5EFB1D962387DCD90041DD80 /* gdgph_devfest_iosUITests */,
 			);
@@ -342,7 +342,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-gdgph_devfest_ios-gdgph_devfest_iosUITests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-flutter_addtoapp_basic_ios-gdgph_devfest_iosUITests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -371,15 +371,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-gdgph_devfest_ios-gdgph_devfest_iosUITests/Pods-gdgph_devfest_ios-gdgph_devfest_iosUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-flutter_addtoapp_basic_ios-gdgph_devfest_iosUITests/Pods-flutter_addtoapp_basic_ios-gdgph_devfest_iosUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-gdgph_devfest_ios-gdgph_devfest_iosUITests/Pods-gdgph_devfest_ios-gdgph_devfest_iosUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-flutter_addtoapp_basic_ios-gdgph_devfest_iosUITests/Pods-flutter_addtoapp_basic_ios-gdgph_devfest_iosUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-gdgph_devfest_ios-gdgph_devfest_iosUITests/Pods-gdgph_devfest_ios-gdgph_devfest_iosUITests-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-flutter_addtoapp_basic_ios-gdgph_devfest_iosUITests/Pods-flutter_addtoapp_basic_ios-gdgph_devfest_iosUITests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		7513280120FABC674CC8731F /* [CP-User] Run Flutter Build Script */ = {
@@ -429,7 +429,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-gdgph_devfest_ios-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-flutter_addtoapp_basic_ios-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -459,15 +459,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-gdgph_devfest_ios/Pods-gdgph_devfest_ios-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-flutter_addtoapp_basic_ios/Pods-flutter_addtoapp_basic_ios-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-gdgph_devfest_ios/Pods-gdgph_devfest_ios-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-flutter_addtoapp_basic_ios/Pods-flutter_addtoapp_basic_ios-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-gdgph_devfest_ios/Pods-gdgph_devfest_ios-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-flutter_addtoapp_basic_ios/Pods-flutter_addtoapp_basic_ios-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -503,12 +503,12 @@
 /* Begin PBXTargetDependency section */
 		5EFB1D8E2387DCD90041DD80 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 5EFB1D772387DCD70041DD80 /* gdgph_devfest_ios */;
+			target = 5EFB1D772387DCD70041DD80 /* flutter_addtoapp_basic_ios */;
 			targetProxy = 5EFB1D8D2387DCD90041DD80 /* PBXContainerItemProxy */;
 		};
 		5EFB1D992387DCD90041DD80 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 5EFB1D772387DCD70041DD80 /* gdgph_devfest_ios */;
+			target = 5EFB1D772387DCD70041DD80 /* flutter_addtoapp_basic_ios */;
 			targetProxy = 5EFB1D982387DCD90041DD80 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -651,7 +651,7 @@
 		};
 		5EFB1DA12387DCD90041DD80 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1FA5C2BA26B26F966536BA20 /* Pods-gdgph_devfest_ios.debug.xcconfig */;
+			baseConfigurationReference = 1FA5C2BA26B26F966536BA20 /* Pods-flutter_addtoapp_basic_ios.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
@@ -659,7 +659,7 @@
 				DEVELOPMENT_TEAM = N5QVM7PTAP;
 				ENABLE_BITCODE = NO;
 				"HEADER_SEARCH_PATHS[arch=*]" = "$(SRCROOT)/Pods/**";
-				INFOPLIST_FILE = gdgph_devfest_ios/Info.plist;
+				INFOPLIST_FILE = flutter_addtoapp_basic_ios/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -674,7 +674,7 @@
 		};
 		5EFB1DA22387DCD90041DD80 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 284F036C8CB1E327A7602CC5 /* Pods-gdgph_devfest_ios.release.xcconfig */;
+			baseConfigurationReference = 284F036C8CB1E327A7602CC5 /* Pods-flutter_addtoapp_basic_ios.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
@@ -682,7 +682,7 @@
 				DEVELOPMENT_TEAM = N5QVM7PTAP;
 				ENABLE_BITCODE = NO;
 				"HEADER_SEARCH_PATHS[arch=*]" = "$(SRCROOT)/Pods/**";
-				INFOPLIST_FILE = gdgph_devfest_ios/Info.plist;
+				INFOPLIST_FILE = flutter_addtoapp_basic_ios/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -713,7 +713,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/gdgph_devfest_ios.app/gdgph_devfest_ios";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/flutter_addtoapp_basic_ios.app/flutter_addtoapp_basic_ios";
 			};
 			name = Debug;
 		};
@@ -735,13 +735,13 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/gdgph_devfest_ios.app/gdgph_devfest_ios";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/flutter_addtoapp_basic_ios.app/flutter_addtoapp_basic_ios";
 			};
 			name = Release;
 		};
 		5EFB1DA72387DCD90041DD80 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5FC24D82C76B280F9D8D296D /* Pods-gdgph_devfest_ios-gdgph_devfest_iosUITests.debug.xcconfig */;
+			baseConfigurationReference = 5FC24D82C76B280F9D8D296D /* Pods-flutter_addtoapp_basic_ios-gdgph_devfest_iosUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -756,13 +756,13 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = gdgph_devfest_ios;
+				TEST_TARGET_NAME = flutter_addtoapp_basic_ios;
 			};
 			name = Debug;
 		};
 		5EFB1DA82387DCD90041DD80 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 466F2B282D10C95E36DF963D /* Pods-gdgph_devfest_ios-gdgph_devfest_iosUITests.release.xcconfig */;
+			baseConfigurationReference = 466F2B282D10C95E36DF963D /* Pods-flutter_addtoapp_basic_ios-gdgph_devfest_iosUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -777,14 +777,14 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = gdgph_devfest_ios;
+				TEST_TARGET_NAME = flutter_addtoapp_basic_ios;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5EFB1D732387DCD70041DD80 /* Build configuration list for PBXProject "gdgph_devfest_ios" */ = {
+		5EFB1D732387DCD70041DD80 /* Build configuration list for PBXProject "flutter_addtoapp_basic_ios" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5EFB1D9E2387DCD90041DD80 /* Debug */,
@@ -793,7 +793,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5EFB1DA02387DCD90041DD80 /* Build configuration list for PBXNativeTarget "gdgph_devfest_ios" */ = {
+		5EFB1DA02387DCD90041DD80 /* Build configuration list for PBXNativeTarget "flutter_addtoapp_basic_ios" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5EFB1DA12387DCD90041DD80 /* Debug */,

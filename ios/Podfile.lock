@@ -2,26 +2,26 @@ PODS:
   - Flutter (1.0.0)
   - FlutterPluginRegistrant (0.0.1):
     - Flutter
-  - gdgph_devfest_flutter (0.0.1):
+  - flutter_addtoapp_basic (0.0.1):
     - Flutter
 
 DEPENDENCIES:
   - Flutter (from `../flutter/.ios/Flutter/engine`)
   - FlutterPluginRegistrant (from `../flutter/.ios/Flutter/FlutterPluginRegistrant`)
-  - gdgph_devfest_flutter (from `../flutter/.ios/Flutter`)
+  - flutter_addtoapp_basic (from `../flutter/.ios/Flutter`)
 
 EXTERNAL SOURCES:
   Flutter:
     :path: "../flutter/.ios/Flutter/engine"
   FlutterPluginRegistrant:
     :path: "../flutter/.ios/Flutter/FlutterPluginRegistrant"
-  gdgph_devfest_flutter:
+  flutter_addtoapp_basic:
     :path: "../flutter/.ios/Flutter"
 
 SPEC CHECKSUMS:
   Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
   FlutterPluginRegistrant: d59dd07dd90e9c6430996073575a5bd1ea19677e
-  gdgph_devfest_flutter: fbd971666ffcff28bb3163c79ca7dfd399086194
+  flutter_addtoapp_basic: fbd971666ffcff28bb3163c79ca7dfd399086194
 
 PODFILE CHECKSUM: 73f181cb19c992295c6062336de92457900e73ca
 

@@ -1,4 +1,4 @@
-package io.github.joshuadeguzman.gdgph_devfest_android.fragments
+package io.github.joshuadeguzman.flutter_addtoapp_basic_android.fragments
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,8 +7,8 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import io.flutter.plugin.common.BasicMessageChannel
 import io.flutter.plugin.common.StringCodec
-import io.github.joshuadeguzman.gdgph_devfest_android.App
-import io.github.joshuadeguzman.gdgph_devfest_android.R
+import io.github.joshuadeguzman.flutter_addtoapp_basic_android.App
+import io.github.joshuadeguzman.flutter_addtoapp_basic_android.R
 import kotlinx.android.synthetic.main.fragment_android.*
 
 class AndroidFragment : Fragment() {

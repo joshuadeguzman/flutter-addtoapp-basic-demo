@@ -4,12 +4,12 @@ platform :ios, '10.0'
 flutter_application_path = '../flutter/'
 load File.join(flutter_application_path, '.ios', 'Flutter', 'podhelper.rb')
 
-target 'gdgph_devfest_ios' do
+target 'flutter_addtoapp_basic_ios' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
   install_all_flutter_pods(flutter_application_path)
 
-  # Pods for gdgph_devfest_ios
+  # Pods for flutter_addtoapp_basic_ios
 
   target 'gdgph_devfest_iosTests' do
     inherit! :search_paths

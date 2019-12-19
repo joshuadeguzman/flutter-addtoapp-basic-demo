@@ -1,4 +1,4 @@
-package io.github.joshuadeguzman.gdgph_devfest_android
+package io.github.joshuadeguzman.flutter_addtoapp_basic_android
 
 import android.app.Application
 import io.flutter.embedding.engine.FlutterEngine
@@ -13,8 +13,8 @@ class App : Application() {
     lateinit var engineEmbedded: FlutterEngine
 
     companion object {
-        const val CACHE_ENGINE_NAME = "gdgph_android"
-        const val CACHE_ENGINE_EMBEDDED_NAME = "gdgph_android_embedded"
+        const val CACHE_ENGINE_NAME = "flutter_addtoapp_basic"
+        const val CACHE_ENGINE_EMBEDDED_NAME = "flutter_addtoapp_basic_embedded"
     }
 
     override fun onCreate() {

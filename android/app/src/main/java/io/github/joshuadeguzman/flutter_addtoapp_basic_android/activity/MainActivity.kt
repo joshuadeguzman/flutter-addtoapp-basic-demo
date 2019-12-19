@@ -1,11 +1,11 @@
-package io.github.joshuadeguzman.gdgph_devfest_android.activity
+package io.github.joshuadeguzman.flutter_addtoapp_basic_android.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import io.flutter.embedding.android.FlutterActivity
 import io.flutter.plugin.common.*
-import io.github.joshuadeguzman.gdgph_devfest_android.App
-import io.github.joshuadeguzman.gdgph_devfest_android.R
+import io.github.joshuadeguzman.flutter_addtoapp_basic_android.App
+import io.github.joshuadeguzman.flutter_addtoapp_basic_android.R
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
