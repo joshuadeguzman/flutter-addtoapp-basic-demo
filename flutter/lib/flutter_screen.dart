@@ -6,7 +6,10 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:flutter_addtoapp_basic/core/database.dart';
 import 'package:flutter_secure_storage/flutter_secure_storage.dart';
+
+import 'models/person.dart';
 
 class FlutterScreen extends StatefulWidget {
   static String routeName = "/flutter-screen";
@@ -20,6 +23,7 @@ class FlutterScreen extends StatefulWidget {
 class FlutterScreenState extends State<FlutterScreen> {
   static const usernameChannel = MethodChannel('channel-username');
   String _username;
+  String _usernameTest;
 
   final storage = FlutterSecureStorage();
   final String KEY_API_TOKEN = 'api_token';
@@ -29,6 +33,26 @@ class FlutterScreenState extends State<FlutterScreen> {
   void initState() {
     super.initState();
     _subscribeToUsernameChannel();
+
+    _setupDatabase();
+  }
+
+  _setupDatabase() async {
+    final database =
+        await $FloorAppDatabase.databaseBuilder('app_database.db').build();
+
+    Person person = await database.personDao.findPersonById(1);
+
+    if (person == null) {
+      person = Person(1, "Joshua");
+    } else {
+      setState(() {
+        _usernameTest = person.name;
+      });
+      await database.personDao.deletePerson(person);
+      await database.personDao.insertPerson(person);
+    }
+    print("JDG ${person.name}");
   }
 
   @override
@@ -52,7 +76,7 @@ class FlutterScreenState extends State<FlutterScreen> {
             child: Column(
               children: <Widget>[
                 Text("Welcome,"),
-                Text(_username ?? ""),
+                Text(_usernameTest ?? ""),
                 Container(
                   margin: EdgeInsets.all(16),
                   child: ClipRRect(
