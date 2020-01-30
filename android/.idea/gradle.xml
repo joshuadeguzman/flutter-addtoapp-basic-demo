@@ -7,7 +7,13 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/../../../../Tools/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_secure_storage-3.3.1+1/android" />
+            <option value="$PROJECT_DIR$/../../../Tools/flutter/.pub-cache/hosted/pub.dartlang.org/device_info-0.4.1+4/android" />
+            <option value="$PROJECT_DIR$/../../../Tools/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_secure_storage-3.3.1+1/android" />
+            <option value="$PROJECT_DIR$/../../../Tools/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_saver-0.3.0/android" />
+            <option value="$PROJECT_DIR$/../../../Tools/flutter/.pub-cache/hosted/pub.dartlang.org/package_info-0.4.0+13/android" />
+            <option value="$PROJECT_DIR$/../../../Tools/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.5.1/android" />
+            <option value="$PROJECT_DIR$/../../../Tools/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-1.2.0/android" />
+            <option value="$PROJECT_DIR$/../../../Tools/flutter/.pub-cache/hosted/pub.dartlang.org/video_player-0.6.5/android" />
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/../flutter/.android/Flutter" />

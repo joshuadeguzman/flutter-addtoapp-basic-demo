@@ -8,7 +8,10 @@ import 'package:flutter_addtoapp_basic/flutter_embedded_view.dart';
 import 'package:flutter_addtoapp_basic/flutter_screen.dart';
 import 'package:flutter_addtoapp_basic/models/person.dart';
 
-void main() => runApp(MyApp());
+void main() {
+  WidgetsFlutterBinding.ensureInitialized();
+  runApp(MyApp());
+}
 
 class MyApp extends StatefulWidget {
   @override
